@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/FwappyBird/UserSettings/
+/FwappyBird/Library/
+/FwappyBird/Assets/lofi world vol 1/
